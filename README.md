@@ -1,2 +1,8 @@
-# MYNTRA_CLONE
-Bring your fashion vision to life with MyntraClone! This React application, styled with Bootstrap and powered by Redux for state management, offers a dynamic e-commerce experience. Explore its features and showcase your development skills!
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
